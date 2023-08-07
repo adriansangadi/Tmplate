@@ -76,9 +76,9 @@
 <meta expr:content='data:post.snippet' property='og:description'/>
 </b:if>
 <meta expr:content='data:blog.title' property='og:site_name'/>
-<meta content='https://blogger-store.com/' property='article:author'/>
-<meta content='https://blogger-store.com/' property='article:publisher'/>
-<meta content='https://blogger-store.com/' property='fb:admins'/>
+<meta content='https://codestore360.blogspot.com/' property='article:author'/>
+<meta content='https://codestore360.blogspot.com/' property='article:publisher'/>
+<meta content='https://codestore360.blogspot.com/' property='fb:admins'/>
 <meta content='452289395458001' property='fb:app_id'/>
 <meta content='en_US' property='og:locale'/>
 <meta content='en_GB' property='og:locale:alternate'/>
@@ -120,7 +120,7 @@
 Theme Name: Material X2
 Version: 1.0
 Redesigner: Code Store 360
-Blog: https://blogger-store.com/
+Blog: https://codestore360.blogspot.com/
 ----------------------------------------------- */ 
 
 /* Variable definitions start
@@ -11139,19 +11139,19 @@ user is not using shrink to fit then we expand the header.
 <nav class='NavMenu' itemscope='itemscope' itemtype='https://schema.org/SiteNavigationElement'>
 <ul>
 <li>
-<a href='https://blogger-store.com/'><span itemprop='name'>About</span></a>
+<a href='https://codestore360.blogspot.com/'><span itemprop='name'>About</span></a>
 </li>
 <li>
-<a href='https://blogger-store.com/'><span itemprop='name'>Contact</span></a>
+<a href='https://codestore360.blogspot.com/'><span itemprop='name'>Contact</span></a>
 </li>
 <li>
-<a href='https://blogger-store.com/'><span itemprop='name'>Disclaimer</span></a>
+<a href='https://codestore360.blogspot.com/'><span itemprop='name'>Disclaimer</span></a>
 </li>
 <li>
-<a href='https://blogger-store.com/'><span itemprop='name'>Privacy Policy</span></a>
+<a href='https://codestore360.blogspot.com/'><span itemprop='name'>Privacy Policy</span></a>
 </li>
 <li>
-<a href='https://blogger-store.com/'><span itemprop='name'>Terms and Conditions</span></a>
+<a href='https://codestore360.blogspot.com/'><span itemprop='name'>Terms and Conditions</span></a>
 </li>
 </ul>
 </nav>
@@ -11164,7 +11164,7 @@ user is not using shrink to fit then we expand the header.
 <nav id='Tukang_Redesign_nav-wrapper' itemscope='itemscope' itemtype='http://schema.org/SiteNavigationElement' role='navigation'>
 <ul>
 <!-- Menu Utama -->
-<li><a class='elcreative-md-button-ripple elcreative-ripple-effect' href='https://blogger-store.com/' title='Home'><span><svg viewBox='0 0 24 24'><path d='M10,20V14H14V20H19V12H22L12,3L2,12H5V20H10Z'/>
+<li><a class='elcreative-md-button-ripple elcreative-ripple-effect' href='https://codestore360.blogspot.com/' title='Home'><span><svg viewBox='0 0 24 24'><path d='M10,20V14H14V20H19V12H22L12,3L2,12H5V20H10Z'/>
 </svg>Home</span></a></li>
 <li><a class='elcreative-md-button-ripple elcreative-ripple-effect' href='/404page'><span><svg viewBox='0 0 24 24'><path d='M5.41,21L6.12,17H2.12L2.47,15H6.47L7.53,9H3.53L3.88,7H7.88L8.59,3H10.59L9.88,7H15.88L16.59,3H18.59L17.88,7H21.88L21.53,9H17.53L16.47,15H20.47L20.12,17H16.12L15.41,21H13.41L14.12,17H8.12L7.41,21H5.41M9.53,9L8.47,15H14.47L15.53,9H9.53Z'/></svg>404 Page</span></a></li>
 <li><a class='elcreative-md-button-ripple elcreative-ripple-effect' href='/search/label/Blogger'><span><svg viewBox='0 0 24 24'><path d='M5.41,21L6.12,17H2.12L2.47,15H6.47L7.53,9H3.53L3.88,7H7.88L8.59,3H10.59L9.88,7H15.88L16.59,3H18.59L17.88,7H21.88L21.53,9H17.53L16.47,15H20.47L20.12,17H16.12L15.41,21H13.41L14.12,17H8.12L7.41,21H5.41M9.53,9L8.47,15H14.47L15.53,9H9.53Z'/></svg>Label Page</span></a></li>
