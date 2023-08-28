@@ -1,0 +1,19 @@
+
+
+IMPORTANT: This is Blogger's default Contact Form widget. It will send the readers' messages to the email you're using for your Blogger account, so make sure that you're checking your inbox using that email address.
+
+
+
+For the Contact Form to appear in your contact page:
+
+1. Go to your blog dashboard > Pages > click on "New page" > add Contact as the title.
+2. Click on the Pencil icon > choose "HTML view" (instead of Compose) and add this code: 
+
+
+
+
+<div class="contact-form-widget"><div class="form"><form name="contact-form"><div class="contact-form-fields"><div class="contact-form-field"><input class="contact-form-name" id="ContactForm1_contact-form-name" name="your-name" size="40" type="text" value="" vinput="" placeholder="Name" /></div><div class="contact-form-field"><input class="contact-form-email" id="ContactForm1_contact-form-email" name="your-email" size="40" type="text" value="" vinput="" placeholder="Email" /></div></div><textarea class="contact-form-email-message" cols="25" id="ContactForm1_contact-form-email-message" name="your-message" rows="5" placeholder="Message"></textarea><div class="contact-form-error-message" id="ContactForm1_contact-form-error-message"></div><div class="contact-form-success-message" id="ContactForm1_contact-form-success-message"></div><input class="contact-form-button contact-form-button-submit" id="ContactForm1_contact-form-submit" type="button" value="Submit" /></form></div></div>
+
+
+
+3. Click on the Publish button located on the upper right side of the screen.
